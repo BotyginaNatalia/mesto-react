@@ -1,0 +1,18 @@
+.element {
+  position: relative;
+  display: grid;
+  grid-template-columns: 282px;
+  row-gap: 20px;
+  background-color: #ffffff;
+  color: #000000;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 0 0 15px 0;
+  padding: 0;
+}
+
+@media screen and (min-width: 1280px) {
+  .element {
+    margin: 0;
+  }
+}

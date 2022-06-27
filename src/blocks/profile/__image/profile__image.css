@@ -1,0 +1,7 @@
+.profile__image {
+  border-radius: 50%;
+  align-self: center;
+  margin: 38.25px 0 0 0;
+  width: 120px;
+  height: 120px;
+}

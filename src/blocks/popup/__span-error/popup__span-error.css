@@ -1,0 +1,16 @@
+.popup__span-error {
+  position: relative;
+  height: 24px;
+  font-size: 12px;
+  line-height: 15px;
+  color: #ff0000;
+  margin: -10% 0 13px 7.5%;
+  display: block;
+  opacity: 0;
+}
+
+@media screen and (min-width: 1280px) {
+  .popup__span-error {
+    margin: -7% 36px 2% 36px;
+  }
+}
